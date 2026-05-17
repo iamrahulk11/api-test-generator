@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiTestGenerator.Cli/ApiTestGenerator.Cli.csproj" />
+    <Project Path="src/ApiTestGenerator.Core/ApiTestGenerator.Core.csproj" />
+    <Project Path="src/ApiTestGenerator.OpenApi/ApiTestGenerator.OpenApi.csproj" />
+  </Folder>
+</Solution>
